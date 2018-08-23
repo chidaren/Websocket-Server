@@ -1,5 +1,5 @@
 # Websocket-Server
 A simple Websocket-Server exmple
 
-TODO: provides feature processing read/write timeout and checking the validation of handshake.
+todo: provides feature processing read/write timeout and checking the validation of handshake.
 
